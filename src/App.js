@@ -14,7 +14,7 @@ function App() {
       <Nav />
       </header>
       <main>
-        <Intro1 />
+        <Intro1 name="Victoria"/>
         <Intro2 />
         <Intro3 />
         <Promo />
